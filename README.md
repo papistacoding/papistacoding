@@ -44,6 +44,8 @@ Also: Storybook · shadcn/ui · TanStack Query · Hasura · Material UI · Headl
 - **Frontend Developer**, Optilogic · 2022: route-planning and map UIs that surfaced $2M in annual savings
 - **Frontend Developer**, Philip Morris International · 2019 – 2022: IQOS digital ecosystem
 
+These are the biggest engagements. Alongside them I've delivered numerous freelance projects for clients through Upwork and my studio, from requirements to deployment, with a 100% job satisfaction score.
+
 #### 🤝 What I care about
 
 Clean architecture that scales with the team, type safety end to end, fast and consistent UI, and mentoring the people around me.
