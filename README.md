@@ -16,7 +16,7 @@ Currently leading frontend at [**Openlane**](https://github.com/theopenlane) and
 
 - **1,000+ merged pull requests** across [Openlane](https://github.com/theopenlane): the Next.js console, the Go core, the Trust Center and the marketing site
 - **~42k monthly npm downloads** of [`nextjs-nav-guard`](https://www.npmjs.com/package/nextjs-nav-guard), my maintained navigation guard for the Next.js App Router
-- **~97% of a healthcare Data Platform frontend** written by me at a US healthcare data startup (under NDA) (16.5k+ lines), plus the matching Django backend features
+- **~97% of a Data Platform frontend** (16.5k+ lines) written by me at a US healthcare data startup under NDA, plus the matching Django backend features
 - **3M parcels a year** tracked through the Track & Trace app I built for a national postal service
 - **7 years** shipping production software, from global consumer products (IQOS) to B2B SaaS
 
