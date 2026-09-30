@@ -50,4 +50,4 @@ Clean architecture that scales with the team, type safety end to end, fast and c
 
 ---
 
-<sub>Most of my client work lives in private repositories. Happy to walk through it on a call.</sub>
+<sub>Most of my client work lives in private repositories, and a good part of it was done on Azure DevOps and GitLab, so it doesn't show up here. Happy to walk through it on a call.</sub>
