@@ -16,13 +16,13 @@ Currently leading frontend at [**Openlane**](https://github.com/theopenlane) and
 
 - **1,000+ merged pull requests** across [Openlane](https://github.com/theopenlane): the Next.js console, the Go core, the Trust Center and the marketing site
 - **~42k monthly npm downloads** of [`nextjs-nav-guard`](https://www.npmjs.com/package/nextjs-nav-guard), my maintained navigation guard for the Next.js App Router
-- **~97% of a healthcare Data Platform frontend** written by me at Aversail (16.5k+ lines), plus the matching Django backend features
+- **~97% of a healthcare Data Platform frontend** written by me at a US healthcare data startup (under NDA) (16.5k+ lines), plus the matching Django backend features
 - **3M parcels a year** tracked through the Track & Trace app I built for a national postal service
 - **7 years** shipping production software, from global consumer products (IQOS) to B2B SaaS
 
 #### 🧭 Selected work
 
-**Aversail** · Solution Architect & Lead Full-Stack Developer · 2025 – 2026
+**US healthcare data startup (under NDA)** · Solution Architect & Lead Full-Stack Developer · 2025 – 2026
 Healthcare provider-network data for workers' comp and PPO networks: provider directory search, plus a data platform where vendors publish versioned datasets to a marketplace and consumers subscribe.
 - Turned complex client feature requests into delivered features, designing each one across frontend and backend (data model, API, UI) and then building it
 - Designed **git-style data provenance**: a live provenance graph with branching and conflict resolution, and a draft → publish workflow for field-level edits
@@ -57,7 +57,7 @@ My studio's site: a Next.js monorepo with a FastAPI + pgvector backend for AI re
 
 #### 💼 Experience
 
-- **Solution Architect & Lead Full-Stack Developer**, Aversail · 2025 – 2026
+- **Solution Architect & Lead Full-Stack Developer**, US healthcare data startup (under NDA) · 2025 – 2026
 - **Lead Frontend Developer**, Openlane · 2024 – now
 - **Senior Frontend Developer**, Hybound · 2023 – 2024: built an enterprise SaaS CRM (500+ users) from scratch on Hasura GraphQL with real-time subscriptions
 - **Frontend Developer**, MIPS · 2022 – 2023: national postal platforms, Parcel Locker touchscreen app
