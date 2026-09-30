@@ -31,10 +31,10 @@ Currently leading the frontend of [**Openlane**](https://github.com/theopenlane)
 #### 🧰 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,graphql,storybook,vue,threejs,nodejs,docker,vercel,git&perline=13" alt="React, Next.js, TypeScript, JavaScript, Tailwind, GraphQL, Storybook, Vue, Three.js, Node.js, Docker, Vercel, Git">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,graphql,vue,threejs,nodejs,docker,vercel,git&perline=13" alt="React, Next.js, TypeScript, JavaScript, Tailwind, GraphQL, Vue, Three.js, Node.js, Docker, Vercel, Git">
 </p>
 
-Also: shadcn/ui · TanStack Query · Hasura · Material UI · Headless UI
+Also: Storybook · shadcn/ui · TanStack Query · Hasura · Material UI · Headless UI
 
 #### 💼 Experience
 
